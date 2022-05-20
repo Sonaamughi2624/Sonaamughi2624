@@ -24,10 +24,9 @@ Being someone who was not interested in anything, i have actually began to see m
                                 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
                    </p>
                     
-  ### Socials
-                  
-                  
-  <p align="left">
+### Socials
+                                  
+<p align="left">
                           
                       <a href="https://www.codepen.io/Sonaamugil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
                           
@@ -35,4 +34,5 @@ Being someone who was not interested in anything, i have actually began to see m
                           
                       <a href="https://www.linkedin.com/in/sonaa-mughi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.twitch.tv/sonaa#0602" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+                      <a href="https://www.twitch.tv/sonaa#0602" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
+                       </p>
