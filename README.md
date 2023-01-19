@@ -4,12 +4,12 @@ Hi 👋 My name is Sonaa Mughi K M
 Web developer and Designer
 --------------------------
 
-Being someone who was not interested in anything, i have actually began to see myself fall for Web technology and have started seeing the world in a whole new different angle which makes me excited as well as nervous to see what this field brings out of me. Still in the path of exploring :) will get there eventually.
+For the past years, I have seen myself fall for Tech and understand how creativity molds the world of technology; this made me see the world from a whole new angle, and I am excited to learn and work on this path to explore the novel ME.
 
 *   🌍  I'm based in Chennai
 *   ✉️  You can contact me at [sonaamughi@gmail.com](mailto:sonaamughi@gmail.com)
-*   🧠  I'm learning Front-end development
-*   🤝  I'm open to collaborating on interesting projectsI
+*   🧠  I'm learning Front-end development and Design.
+*   🤝  I'm open to collaborating on interesting projects!
 *   ⚡  I'm secretly a singer.....but don't tell anyone xD
 
 ### Skills
