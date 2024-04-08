@@ -6,7 +6,7 @@ Web developer and Designer
 
 For the past years, I have seen myself fall for Tech and understand how creativity molds the world of technology; this made me see the world from a whole new angle, and I am excited to learn and work on this path to explore the novel ME.
 
-*   🌍  I'm based in Chennai
+*   🌍  I'm based in Chemnitz, Germany
 *   ✉️  You can contact me at [sonaamughi@gmail.com](mailto:sonaamughi@gmail.com)
 *   🧠  I'm learning Front-end development and Design.
 *   🤝  I'm open to collaborating on interesting projects!
